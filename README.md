@@ -1,6 +1,8 @@
 # Chat de Twitch
 
-[tmiJS](https://tmijs.com/)
+## Desarrollador con:
+[tmi.js](https://tmijs.com/)
+[NextJS](https://nextjs.org/)
 
 Este proyecto lo desarrollamos en directo. Y básicamente es un chat en tiempo real de twitch.
 Esto para poder usuarlo en vivo y que los viewers puedan ver sus mensajes en tiempo real en la pantalla del directo.💜
