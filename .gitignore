@@ -14,7 +14,7 @@
 
 # production
 /build
-./services/getUserImage.ts
+/services/getUserImage.ts
 
 # misc
 .DS_Store
