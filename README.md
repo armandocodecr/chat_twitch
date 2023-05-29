@@ -1,6 +1,6 @@
 # Chat de Twitch
 
-## Desarrollador con:
+## Desarrollado con:
 [tmi.js](https://tmijs.com/) | 
 [NextJS](https://nextjs.org/)
 
