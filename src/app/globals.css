@@ -50,7 +50,7 @@ body {
 
 .fade-in-out {
   opacity: 0;
-  animation: fade-in 1s ease-in forwards, fade-out 1s 8s ease-out forwards;
+  animation: fade-in 1s ease-in forwards, fade-out 1s 15s ease-out forwards;
 }
 
 @keyframes fade-in {
