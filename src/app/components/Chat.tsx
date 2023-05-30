@@ -114,7 +114,7 @@ export default function Chat() {
                 className="absolute flex items-center capitalize text-lg top-[-20px] px-5 py-2 -left-5 font-bold tracking-tight bg-gray-400 
                 rounded-tl-full rounded-tr-full rounded-br-full rounded-bl-none overflow-hidden bg-gradient-to-br from-[#333] to-[#111]" 
                 style={{ color: message.color, border: `3px solid ${message.color}` }}>
-                { badges && badges.map(badge => <img className="h-[24px] px-1" alt="badge_twitch" src={badge} />) }
+                { badges && badges.map(badge => <img key={badge+message.id} className="h-[24px] px-1" alt="badge_twitch" src={badge} />) }
                 { message.username.substring(1) }
               </span>
 
